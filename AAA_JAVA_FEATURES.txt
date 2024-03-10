@@ -1,0 +1,14 @@
+JAVA uses ASCII (American Standard Code for Information Interchange) character encodings
+every character in has its ASCII value
+
+Class.forName("Mobile");    // to call class without creating object. //Class is a class.
+
+
+
+static  //Static block
+{
+    // statement
+}
+
+
+
